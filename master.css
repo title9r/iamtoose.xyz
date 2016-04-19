@@ -2,9 +2,9 @@ body {
     background-image: url('rsf1.gif');
 }
 @keyframes toosex {
-    0% {padding-left:160px;}
-    60% { padding-left: 200px;}
-    100% { padding left: 180px;}
+    0% {left:0px;}
+    60% { left: 40px;}
+    100% { left: 20px;}
 }
 .james {
     width: 100px;
