@@ -12,7 +12,6 @@ body {
     padding-left: 160px;
     padding-right: 170px;
     padding-top: 40px;
-    animation-name:toosexy;
-    animation-duration: 3s;
-    
+    animation: mymove 3s infinite; 
+    -webkit-animation: mymove 3s infinite;
 }
