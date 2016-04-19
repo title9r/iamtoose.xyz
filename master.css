@@ -11,6 +11,7 @@ body {
     height: 100px;
     padding-left: 160px;
     padding-right: 170px;
+    padding-bottom: 185px;
     padding-top: 40px;
     animation: toosexy 3s infinite; 
     -webkit-animation: toosexy 3s infinite;
