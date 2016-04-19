@@ -1,3 +1,13 @@
 body {
     background-image: url('rsf1.gif');
 }
+
+@ketframes rain (
+0% {opacity: 1;}
+100%{opacity: 0.0;}
+)
+
+.james {
+    animation-name: rain;
+    animation-duration: 1s;
+}
